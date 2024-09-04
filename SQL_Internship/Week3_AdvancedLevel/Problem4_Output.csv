@@ -1,0 +1,315 @@
+EmployeeID,Name,Department,JobTitle,Years_At_Company,PerformanceScore
+EMP01622,"Kyle Sanchez",Sales,"IT Support",29.5808,99
+EMP01580,"Cody Farmer",Finance,Accountant,28.6740,99
+EMP02493,"Richard Medina",IT,Recruiter,27.7233,99
+EMP01190,"Michael Gonzalez","Customer Support","Support Agent",25.6603,99
+EMP02218,"Jessica Garrett",Finance,"Support Agent",25.3014,99
+EMP00651,"Andrew Harper",Sales,"Sales Manager",24.2356,99
+EMP01323,"Laura Wilson",Finance,"System Administrator",22.4795,99
+EMP00084,"Paul Jones","Customer Support",Accountant,20.2411,99
+EMP02388,"Melissa Patel MD",HR,Accountant,19.3342,99
+EMP00028,"Stephanie Ross",Engineering,Accountant,18.9205,99
+EMP02034,"Tiffany Johnson",Engineering,"HR Manager",18.5233,99
+EMP01805,"April Finley",IT,"Finance Manager",17.5836,99
+EMP00066,"Amber Kidd",Finance,"Security Analyst",14.8685,99
+EMP00143,"Patricia Rodriguez",Marketing,"Marketing Manager",14.6904,99
+EMP00854,"Donald Miller",Engineering,"HR Manager",13.8274,99
+EMP00538,"Bianca Wood","Customer Support","Customer Service Manager",10.7863,99
+EMP00898,"Elizabeth Dean",Engineering,"Software Engineer",9.8822,99
+EMP00192,"Karen Graham",Finance,"IT Support",9.3781,99
+EMP01522,"Richard Reyes",IT,"Account Manager",9.0877,99
+EMP02055,"Kenneth Stokes",Finance,"Financial Analyst",8.6795,99
+EMP01591,"David Sullivan",HR,"Security Analyst",7.3945,99
+EMP00153,"Denise Jones",HR,"Marketing Manager",6.4000,99
+EMP01183,"Gregory Chambers","Customer Support","Marketing Manager",29.8630,98
+EMP00233,"Christopher Parker","Customer Support","Network Engineer",28.2603,98
+EMP01488,"Justin Hurley",Marketing,"Marketing Manager",26.1890,98
+EMP01258,"Manuel Mccullough",Marketing,"Sales Representative",21.1699,98
+EMP00396,"Dana Chapman","Customer Support","Security Analyst",20.2247,98
+EMP00500,"Phillip Berry","Customer Support","Financial Analyst",19.6329,98
+EMP02008,"Mrs. Ashley Taylor",HR,"Financial Analyst",17.1781,98
+EMP00306,"Kevin Oconnor",Marketing,"Content Creator",16.0493,98
+EMP02303,"Mr. Jeremiah Galvan MD","Customer Support","Network Engineer",14.5781,98
+EMP01837,"Ryan Salazar",Engineering,"Software Engineer",12.5616,98
+EMP01126,"Peter Williams",Marketing,"Marketing Manager",10.5479,98
+EMP01309,"Dale Heath","Customer Support",Accountant,8.2493,98
+EMP00873,"Michael Blair",Marketing,"Finance Manager",8.1178,98
+EMP01759,"Robert Green",Sales,Recruiter,7.9041,98
+EMP00951,"Rebecca Kelly",IT,"Marketing Specialist",7.3918,98
+EMP00411,"Angela Lin","Customer Support","Account Manager",6.6411,98
+EMP00114,"Crystal Johnson",Marketing,"Marketing Specialist",6.2575,98
+EMP02404,"Patricia Harvey",Engineering,"Content Creator",6.1205,98
+EMP00591,"Laurie Sanchez",IT,"Sales Representative",5.8164,98
+EMP01168,"Michelle Rodriguez","Customer Support","Marketing Specialist",5.7425,98
+EMP00378,"Paula Bradley",Sales,"HR Manager",5.3507,98
+EMP02291,"Jody Bird",Engineering,Recruiter,28.9507,97
+EMP00376,"Paul Lewis",HR,"Marketing Manager",28.7534,97
+EMP00296,"John Young",HR,"Data Scientist",27.7973,97
+EMP01418,"Alyssa Alvarado","Customer Support","HR Coordinator",27.4329,97
+EMP01730,"Zachary Santiago",Sales,"Customer Service Manager",26.6137,97
+EMP00228,"Michael Warner",HR,"Finance Manager",26.5452,97
+EMP01746,"Rebecca Edwards",Engineering,Recruiter,25.6082,97
+EMP02271,"Mrs. Amy Malone",Engineering,"IT Support",25.2740,97
+EMP02236,"Lance Kirby","Customer Support","Marketing Manager",25.1726,97
+EMP00978,"Margaret Tanner",HR,Recruiter,24.8466,97
+EMP00109,"Evelyn Galvan",IT,"Network Engineer",23.8000,97
+EMP00834,"Tyler Harris",IT,"Civil Engineer",21.7589,97
+EMP01459,"Richard Smith",HR,"HR Manager",21.7288,97
+EMP00490,"Lance Simmons",IT,"Financial Analyst",19.8219,97
+EMP00778,"Cody Davidson",HR,"Sales Representative",17.7808,97
+EMP00724,"Todd Reynolds",Sales,"Support Agent",15.4219,97
+EMP00785,"Margaret Harper",Engineering,"Financial Analyst",14.9178,97
+EMP01635,"Kelly Dominguez",Engineering,"Sales Manager",13.6959,97
+EMP02273,"Mark Reeves",Engineering,"Account Manager",12.0877,97
+EMP02380,"Tanner Mann",Engineering,"Data Scientist",10.6329,97
+EMP01120,"Brittany Davis",Sales,"Financial Analyst",7.2740,97
+EMP01742,"Nicholas Terrell",Marketing,"Financial Analyst",6.7918,97
+EMP02335,"Scott Stewart",Marketing,"System Administrator",6.4685,97
+EMP00246,"Donna Landry",Sales,"Finance Manager",29.4986,96
+EMP01189,"Kelly Johnson",IT,"IT Support",28.7123,96
+EMP02386,"Crystal Mills",Engineering,"Support Agent",28.4904,96
+EMP00429,"Robin Santiago",IT,"Customer Service Manager",28.2712,96
+EMP01739,"Joshua Richardson",Engineering,"Sales Representative",26.7452,96
+EMP00587,"Dwayne Klein",Sales,"Network Engineer",26.0712,96
+EMP01766,"Audrey Jackson",Sales,"Mechanical Engineer",25.6027,96
+EMP01581,"Debra Bradley",HR,"Sales Representative",25.4932,96
+EMP02287,"Raymond Barber",IT,"IT Support",24.7370,96
+EMP01422,"Kyle Welch","Customer Support","Content Creator",24.4247,96
+EMP01314,"Samantha Prince","Customer Support","Security Analyst",20.7425,96
+EMP00385,"Aimee Turner","Customer Support","Finance Manager",20.5753,96
+EMP02390,"Terri Williams","Customer Support",Accountant,19.5370,96
+EMP01736,"Joanna Kelly",IT,"Sales Manager",18.6630,96
+EMP00525,"Krista Martinez",Engineering,Recruiter,16.6082,96
+EMP01634,"Michael Hill",Marketing,"Customer Service Manager",15.2575,96
+EMP00542,"Sean Moore",Marketing,"Content Creator",15.1890,96
+EMP02269,"Adam Drake","Customer Support","IT Support",14.0493,96
+EMP01370,"Brittney Rodriguez",Marketing,Recruiter,12.5589,96
+EMP00008,"Gina Moore",IT,"Data Scientist",9.5014,96
+EMP00583,"Gregory Peck",Engineering,"Support Agent",7.4849,96
+EMP00214,"Katherine Salas",IT,"Security Analyst",7.0603,96
+EMP01434,"Dennis Henderson",IT,"IT Support",6.9945,96
+EMP00127,"Michelle Evans",IT,"Marketing Specialist",5.4493,96
+EMP00516,"Dr. Kelly Hammond DVM",Marketing,"System Administrator",29.6082,95
+EMP02136,"Cheryl Atkins",Marketing,"Sales Manager",25.0548,95
+EMP02259,"Annette Holland",Sales,"IT Support",21.7014,95
+EMP01733,"Angela May MD",HR,"Marketing Manager",21.4548,95
+EMP02378,"Elizabeth Robbins",Engineering,"Software Engineer",20.8795,95
+EMP01748,"Jose Harrison",HR,"Marketing Specialist",17.7699,95
+EMP01205,"Michael Lopez",Finance,"Support Agent",17.6658,95
+EMP00232,"Susan Serrano",Sales,"Financial Analyst",14.9288,95
+EMP01660,"Andre Terrell","Customer Support","Civil Engineer",13.9096,95
+EMP01180,"Elizabeth Miles",Finance,"Marketing Manager",9.6466,95
+EMP00322,"Charles Shah",Engineering,"Sales Manager",8.5644,95
+EMP01357,"Kristine Carrillo",Finance,"HR Coordinator",6.9671,95
+EMP00125,"Helen Jones",Sales,"Sales Representative",6.2795,95
+EMP00986,"Elizabeth Flores",Engineering,"Account Manager",6.1973,95
+EMP01797,"Susan Baldwin",Engineering,"Customer Service Manager",5.8164,95
+EMP02461,"Michelle Simpson",Sales,"Content Creator",5.7781,95
+EMP02188,"Bonnie Wade",HR,"Sales Representative",5.7041,95
+EMP00248,"Frank Cordova",Marketing,"Sales Representative",29.0932,94
+EMP00956,"William Keith","Customer Support","Finance Manager",28.8767,94
+EMP01706,"Robert Garza","Customer Support","Marketing Specialist",28.2877,94
+EMP02007,"Darren Rodriguez",Engineering,"Civil Engineer",26.6493,94
+EMP01366,"Debra Valentine",IT,"HR Coordinator",25.7014,94
+EMP01567,"Crystal Allen","Customer Support",Recruiter,24.5342,94
+EMP00371,"Allison Hickman",Sales,"Customer Service Manager",23.1671,94
+EMP01230,"Michele Cherry","Customer Support",Accountant,22.9014,94
+EMP02367,"John Valenzuela",Marketing,"IT Support",22.8301,94
+EMP00158,"Jason Stein",IT,"Customer Service Manager",18.3452,94
+EMP01458,"Christopher Hill",HR,"Marketing Specialist",18.2959,94
+EMP01226,"Tiffany Jackson",Finance,"IT Support",18.0575,94
+EMP01595,"Kelly Hayes",HR,"System Administrator",13.3945,94
+EMP00080,"Lisa Barnes",Engineering,"Sales Manager",10.4301,94
+EMP00705,"Shannon Malone",IT,"Account Manager",7.3918,94
+EMP00853,"Victor Edwards",Finance,"Marketing Specialist",7.3726,94
+EMP01384,"Jonathan Clark","Customer Support","Software Engineer",5.9562,94
+EMP00704,"Michael Abbott",Sales,Recruiter,29.8000,93
+EMP01664,"Jason Crawford",IT,"Sales Representative",26.5370,93
+EMP01793,"Tyler Baker",Finance,"Sales Representative",25.6932,93
+EMP00440,"Jason Rhodes",Engineering,"Mechanical Engineer",23.0877,93
+EMP00045,"Angelica Tucker",HR,"Sales Representative",23.0411,93
+EMP00282,"Tammie Bright","Customer Support","Security Analyst",22.7671,93
+EMP02199,"Billy Williams","Customer Support","Customer Service Manager",22.0384,93
+EMP00560,"Louis Martin","Customer Support",Accountant,21.6411,93
+EMP01867,"Samuel Ellis",Engineering,"Account Manager",21.2329,93
+EMP02362,"Emily Fleming",Finance,"Account Manager",20.4356,93
+EMP00370,"Sabrina Austin",Marketing,"Support Agent",19.9452,93
+EMP01520,"Sean Kane","Customer Support","Financial Analyst",17.9315,93
+EMP01612,"Jamie James",Marketing,"Content Creator",16.8055,93
+EMP00614,"David Molina",Marketing,"Support Agent",16.0301,93
+EMP01630,"Jesse Riley","Customer Support","Software Engineer",15.4164,93
+EMP00511,"Rebecca Hicks",Finance,"Support Agent",14.0685,93
+EMP00492,"Heather Bolton",Finance,"Marketing Manager",11.7534,93
+EMP00436,"Sophia Johnson",Sales,"Mechanical Engineer",9.8685,93
+EMP01276,"Jonathan Bates",Marketing,"HR Coordinator",8.4877,93
+EMP00375,"Charles Schultz",IT,"Sales Manager",8.1863,93
+EMP01129,"Anna Briggs",Finance,"HR Manager",6.4247,93
+EMP00570,"Michael Johnson",Finance,"Support Agent",6.2986,93
+EMP00861,"Vanessa Hatfield",Marketing,"Civil Engineer",5.3452,93
+EMP02017,"Charles Morales",HR,"Support Agent",28.5562,92
+EMP00938,"Edward Jenkins",Sales,"Support Agent",25.1178,92
+EMP00102,"Cameron Parker",IT,"System Administrator",23.9315,92
+EMP01625,"Amanda Nash",Engineering,"Software Engineer",21.9918,92
+EMP02125,"Michael Serrano",Marketing,"HR Coordinator",21.0082,92
+EMP01949,"Steven Taylor",HR,"HR Manager",20.8932,92
+EMP00606,"Todd Rosales MD",Finance,"Marketing Specialist",19.7562,92
+EMP00783,"Chelsea Nguyen",HR,"Software Engineer",18.9616,92
+EMP01763,"Wyatt Townsend II",HR,"Support Agent",16.9699,92
+EMP00288,"Carolyn Miller",HR,Accountant,16.3534,92
+EMP00828,"Claudia Jordan",Marketing,"Civil Engineer",14.8493,92
+EMP00426,"Gregory Ponce",Marketing,"Security Analyst",13.3068,92
+EMP00716,"David Davenport",Marketing,"IT Support",12.3370,92
+EMP01772,"Amanda Hardin",Engineering,Recruiter,10.0740,92
+EMP02417,"Andrea Clarke",Marketing,"IT Support",10.0521,92
+EMP00309,"Kiara Mcintyre",Sales,"Content Creator",9.6548,92
+EMP00773,"Eric Patrick",Marketing,"Marketing Manager",8.3205,92
+EMP00152,"Pamela Boyd","Customer Support","Security Analyst",8.2932,92
+EMP01857,"Steven Griffith","Customer Support","Marketing Manager",6.3233,92
+EMP01695,"David Walker",HR,"IT Support",6.2055,92
+EMP01455,"Dawn Little",Engineering,"Sales Representative",6.1233,92
+EMP00312,"Victor Taylor",Engineering,"Civil Engineer",5.7836,92
+EMP00064,"Donald Wright",Sales,"Sales Representative",29.7918,91
+EMP02028,"Barry Gregory","Customer Support","Support Agent",29.7260,91
+EMP01113,"Nathan Wilson",IT,"Civil Engineer",29.6493,91
+EMP02416,"Corey Garcia","Customer Support",Recruiter,29.2384,91
+EMP01923,"Brittany Young",Finance,Accountant,24.0274,91
+EMP01850,"Cory Hogan",Engineering,Recruiter,23.0000,91
+EMP00134,"Daniel Kennedy",HR,"Software Engineer",17.4904,91
+EMP00527,"Todd Moore",HR,"Financial Analyst",17.3397,91
+EMP00795,"Jerry Brown",Engineering,"Content Creator",15.4767,91
+EMP00842,"Alexandra Dominguez","Customer Support","Software Engineer",15.2384,91
+EMP02043,"Wesley Jensen MD","Customer Support","Mechanical Engineer",14.9178,91
+EMP00294,"Margaret Coleman","Customer Support","System Administrator",14.4247,91
+EMP01512,"Kevin Hall",IT,"Support Agent",12.4932,91
+EMP01781,"Daniel Campbell",IT,"Financial Analyst",11.4356,91
+EMP00551,"Kelly Lee","Customer Support","Content Creator",8.4247,91
+EMP01387,"Crystal Garcia",Engineering,"Marketing Manager",6.9534,91
+EMP00655,"Robert Dennis",Finance,"Network Engineer",6.0740,91
+EMP01033,"William Ramos",Marketing,"Content Creator",5.8849,91
+EMP00023,"Ethan Adams",Engineering,"Marketing Manager",28.0877,90
+EMP01066,"Melanie Griffith",Engineering,"Mechanical Engineer",24.3178,90
+EMP02327,"Luke Ray","Customer Support","Civil Engineer",23.7918,90
+EMP01855,"Patrick Buckley",Marketing,"Financial Analyst",22.6301,90
+EMP01907,"Donna Frye","Customer Support","System Administrator",21.0548,90
+EMP01636,"Ashley Blair",Engineering,"Sales Representative",20.1890,90
+EMP01823,"Amanda Thomas",IT,"HR Coordinator",20.1836,90
+EMP00892,"Nathan Nelson",Finance,"Financial Analyst",20.1370,90
+EMP01602,"Brenda Gallegos","Customer Support","Content Creator",18.9836,90
+EMP00846,"Breanna Ayala",Sales,"Sales Manager",18.9288,90
+EMP02200,"Jeffery Davis","Customer Support","Support Agent",17.7288,90
+EMP00469,"Katie Mcneil",IT,"Sales Manager",17.1836,90
+EMP00498,"James Bradley",Marketing,"Content Creator",17.0904,90
+EMP01714,"Ann Montoya",HR,"Marketing Specialist",15.8110,90
+EMP00600,"Susan Thompson",Engineering,"Financial Analyst",15.6438,90
+EMP00078,"Megan Young",Sales,"Sales Manager",14.3753,90
+EMP02385,"Austin Green",IT,"HR Coordinator",13.5726,90
+EMP01607,"Jesse Wright",Marketing,"Civil Engineer",12.9589,90
+EMP02309,"Jennifer Martinez",IT,"System Administrator",12.9562,90
+EMP02317,"Rachael Alvarez",Marketing,"Sales Representative",12.2904,90
+EMP01270,"Amanda Perkins",Marketing,"Marketing Specialist",11.8000,90
+EMP00178,"Michael Wang",IT,"Marketing Specialist",11.3726,90
+EMP01705,"Valerie Reyes","Customer Support","Mechanical Engineer",8.1233,90
+EMP00571,"Ashley Smith","Customer Support","IT Support",7.3808,90
+EMP02150,"Elizabeth Foster",Finance,Accountant,5.3014,90
+EMP01878,"Joseph Mendoza",Finance,"Marketing Specialist",28.4932,89
+EMP02485,"Jose Hartman",Engineering,"HR Manager",27.0767,89
+EMP00640,"Janet Kane DVM",HR,"Software Engineer",26.7479,89
+EMP02365,"Joe Greene",Marketing,"HR Manager",26.4192,89
+EMP02045,"Russell Bailey",IT,"Marketing Manager",24.4904,89
+EMP00598,"Susan Davis",Marketing,"Financial Analyst",23.6164,89
+EMP02196,"Terry Woods","Customer Support","Marketing Specialist",22.5781,89
+EMP01474,"Aaron Little","Customer Support","Civil Engineer",22.3808,89
+EMP01083,"Brenda Gonzalez",Marketing,"Finance Manager",21.7041,89
+EMP01579,"Denise Maxwell",HR,"Content Creator",20.3452,89
+EMP01295,"Robert Cortez",HR,Recruiter,17.1425,89
+EMP02343,"Paul Willis",HR,"Marketing Specialist",17.0904,89
+EMP00537,"Morgan Valencia",Finance,"Marketing Manager",16.9425,89
+EMP01965,"Lori Alvarez",Engineering,"Financial Analyst",13.7370,89
+EMP02473,"Kayla Schneider",Sales,"HR Manager",13.1068,89
+EMP01286,"Sandy Baker","Customer Support",Accountant,12.6329,89
+EMP00832,"Richard Stevens",Sales,Recruiter,11.6356,89
+EMP00504,"Zachary Mitchell",Marketing,"Data Scientist",10.9041,89
+EMP01807,"Heather Maldonado",Engineering,"Software Engineer",8.6000,89
+EMP02016,"Brian Kim DDS",HR,"Support Agent",8.1014,89
+EMP02010,"Garrett Wilson",Finance,"Network Engineer",29.3397,88
+EMP02387,"Cheryl Gregory",HR,"Customer Service Manager",28.4082,88
+EMP00895,"Dr. Andrea Marshall",Sales,"Marketing Specialist",27.0110,88
+EMP02011,"Kyle Collins",Sales,"Marketing Specialist",26.2986,88
+EMP02397,"Vanessa Coleman",IT,"Mechanical Engineer",23.4110,88
+EMP00970,"Eric Barker",IT,"Support Agent",22.7014,88
+EMP00256,"Kristen Davis",Sales,"Marketing Manager",22.5342,88
+EMP00889,"Chris Velazquez","Customer Support",Accountant,22.4329,88
+EMP01086,"Katherine Welch",IT,"Software Engineer",21.8438,88
+EMP00948,"Ariel Sandoval",Engineering,"Support Agent",20.3973,88
+EMP01406,"Eddie Adams",IT,"Content Creator",19.6548,88
+EMP00722,"Raymond Johnson",Finance,Recruiter,18.5699,88
+EMP02098,"Emily Coleman",Engineering,"Account Manager",17.7699,88
+EMP02256,"Brian Soto",Sales,"Finance Manager",17.6082,88
+EMP01477,"Mary Ryan",Engineering,"Customer Service Manager",17.5479,88
+EMP01963,"Zachary Jones","Customer Support","IT Support",17.4932,88
+EMP02220,"John Johnson",Finance,Accountant,14.3699,88
+EMP00830,"Kenneth Knight",HR,"Customer Service Manager",13.6274,88
+EMP01646,"Mrs. Felicia Castro DDS",Engineering,"Customer Service Manager",12.6384,88
+EMP00073,"Brittney Phillips",Marketing,"Content Creator",12.1397,88
+EMP02331,"Danielle Thornton",IT,"HR Coordinator",9.4438,88
+EMP00123,"April Frost",IT,"Sales Manager",7.3479,88
+EMP00757,"Karen Morales DDS",Engineering,"IT Support",6.2356,88
+EMP00398,"Gary Jackson",Marketing,Accountant,29.2384,87
+EMP00661,"William David DDS",Sales,"System Administrator",26.2932,87
+EMP02208,"Cody Burgess","Customer Support","Sales Representative",25.4959,87
+EMP01220,"Lisa Haley","Customer Support","Sales Manager",25.2822,87
+EMP00004,"Daniel Wagner",IT,"Content Creator",23.9973,87
+EMP02268,"Heidi Johnson",Engineering,"Sales Manager",23.8329,87
+EMP00868,"Michael Miller",IT,"Customer Service Manager",22.4247,87
+EMP01108,"Jennifer James",Engineering,"Software Engineer",20.6740,87
+EMP02318,"Lisa Gill",IT,"Sales Manager",17.1890,87
+EMP02110,"Sydney Welch",Finance,"HR Coordinator",15.5671,87
+EMP01638,"Taylor Andersen",Finance,"Content Creator",13.5014,87
+EMP01164,"Amber Martin","Customer Support","Marketing Manager",12.3781,87
+EMP00968,"Melissa Mcfarland",Sales,"Support Agent",8.5589,87
+EMP01490,"Deborah Williams",Finance,"Content Creator",6.9233,87
+EMP00327,"Brett Burns",Sales,"Content Creator",6.4247,87
+EMP01720,"Jessica Haas",Finance,"Marketing Manager",30.0274,86
+EMP00235,"Michael Lyons",Sales,"Customer Service Manager",29.8877,86
+EMP01917,"Carlos Clarke",Marketing,"Account Manager",29.6904,86
+EMP02013,"Scott Lopez",HR,"Security Analyst",29.5836,86
+EMP00148,"Stephanie Salazar","Customer Support","Marketing Specialist",28.5260,86
+EMP01067,"Yolanda Green",Sales,"Financial Analyst",28.1260,86
+EMP00013,"Lisa Hensley",HR,"Sales Representative",27.6795,86
+EMP00280,"Nathan Malone",Sales,Recruiter,25.9315,86
+EMP02403,"Gavin Bauer",IT,"Sales Manager",25.6356,86
+EMP02023,"Richard Schneider",Finance,"Finance Manager",25.1890,86
+EMP00601,"Casey Gillespie",Engineering,"Financial Analyst",24.4000,86
+EMP00211,"Christopher Smith","Customer Support","System Administrator",22.6685,86
+EMP01920,"Jesus Jackson","Customer Support","Support Agent",22.5781,86
+EMP01649,"Aaron Jennings","Customer Support","Mechanical Engineer",20.4740,86
+EMP00803,"Reginald Morrow",HR,"Network Engineer",20.0384,86
+EMP01144,"Matthew Wright",Sales,"Network Engineer",18.9726,86
+EMP01899,"Patrick Perez",Finance,"HR Manager",18.2137,86
+EMP00547,"Johnny Khan",Sales,"Account Manager",18.1781,86
+EMP01219,"Jill Conway","Customer Support","HR Manager",14.8959,86
+EMP00173,"Joshua Cooke",Engineering,"Sales Manager",14.2384,86
+EMP01701,"Bethany Garcia","Customer Support","Marketing Manager",13.7288,86
+EMP00267,"Kimberly Gibson",Sales,"Finance Manager",12.5945,86
+EMP01360,"Austin Schultz",IT,"Support Agent",11.2630,86
+EMP02495,"Brittany Cisneros","Customer Support","Marketing Specialist",10.4164,86
+EMP01856,"Richard Washington",Finance,"System Administrator",9.8849,86
+EMP02107,"Theodore Long",Finance,"Content Creator",9.6301,86
+EMP00806,"Ronald Potter","Customer Support","Security Analyst",5.8055,86
+EMP01741,"John Vaughn",Marketing,"Software Engineer",29.5808,85
+EMP00354,"Michael Farrell",HR,"Civil Engineer",29.3233,85
+EMP01535,"Michael Henderson",Sales,"Support Agent",26.5945,85
+EMP02209,"Shelby Rodriguez",Sales,"Account Manager",26.2959,85
+EMP02350,"Christina Faulkner",Finance,"Sales Representative",23.4137,85
+EMP02038,"Michael Henry",IT,"Security Analyst",23.1562,85
+EMP00530,"Angel May",HR,"Sales Manager",19.5644,85
+EMP00074,"Lauren Daniels",Finance,"Civil Engineer",18.8466,85
+EMP00866,"Antonio Mccormick",HR,"Marketing Specialist",18.7151,85
+EMP01306,"Matthew Baker",IT,"HR Manager",16.1945,85
+EMP00444,"Holly Valentine",IT,"HR Coordinator",15.5315,85
+EMP01139,"Jason Williams",Marketing,"Customer Service Manager",15.2795,85
+EMP02065,"Elizabeth Brock",HR,"Content Creator",12.6274,85
+EMP00277,"Wayne Morgan",IT,"Customer Service Manager",11.6000,85
+EMP01388,"David Reynolds",Finance,"Marketing Specialist",9.3205,85
+EMP02083,"Robert Hopkins",Marketing,"Software Engineer",6.6630,85
+EMP00965,"Eric Taylor","Customer Support","Sales Manager",5.9890,85

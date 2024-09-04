@@ -1,0 +1,155 @@
+Department,JobTitle,Average_Performance_Score
+"Customer Support","Account Manager",45.8824
+"Customer Support",Accountant,80.0769
+"Customer Support","Civil Engineer",55.6429
+"Customer Support","Content Creator",47.3125
+"Customer Support","Customer Service Manager",46.1724
+"Customer Support","Data Scientist",39.0000
+"Customer Support","Finance Manager",58.4286
+"Customer Support","Financial Analyst",55.4211
+"Customer Support","HR Coordinator",55.8182
+"Customer Support","HR Manager",44.8000
+"Customer Support","IT Support",45.1538
+"Customer Support","Marketing Manager",55.5000
+"Customer Support","Marketing Specialist",73.2857
+"Customer Support","Mechanical Engineer",46.9286
+"Customer Support","Network Engineer",57.1333
+"Customer Support",Recruiter,53.0588
+"Customer Support","Sales Manager",47.9333
+"Customer Support","Sales Representative",47.8000
+"Customer Support","Security Analyst",63.6842
+"Customer Support","Software Engineer",65.6667
+"Customer Support","Support Agent",57.5556
+"Customer Support","System Administrator",67.5000
+Engineering,"Account Manager",48.1579
+Engineering,Accountant,45.0000
+Engineering,"Civil Engineer",64.3000
+Engineering,"Content Creator",54.1200
+Engineering,"Customer Service Manager",45.5500
+Engineering,"Data Scientist",47.0000
+Engineering,"Finance Manager",34.7143
+Engineering,"Financial Analyst",61.3000
+Engineering,"HR Coordinator",21.6429
+Engineering,"HR Manager",52.2273
+Engineering,"IT Support",55.4286
+Engineering,"Marketing Manager",51.6667
+Engineering,"Marketing Specialist",42.3571
+Engineering,"Mechanical Engineer",49.2500
+Engineering,"Network Engineer",43.4545
+Engineering,Recruiter,65.3571
+Engineering,"Sales Manager",69.0667
+Engineering,"Sales Representative",51.7333
+Engineering,"Security Analyst",37.0000
+Engineering,"Software Engineer",53.9474
+Engineering,"Support Agent",45.1667
+Engineering,"System Administrator",40.4000
+Finance,"Account Manager",52.7692
+Finance,Accountant,60.0909
+Finance,"Civil Engineer",50.7500
+Finance,"Content Creator",58.1875
+Finance,"Customer Service Manager",37.0000
+Finance,"Data Scientist",26.6667
+Finance,"Finance Manager",35.4091
+Finance,"Financial Analyst",54.1579
+Finance,"HR Coordinator",42.3333
+Finance,"HR Manager",47.0526
+Finance,"IT Support",68.6000
+Finance,"Marketing Manager",57.9524
+Finance,"Marketing Specialist",63.1905
+Finance,"Mechanical Engineer",64.4167
+Finance,"Network Engineer",54.8462
+Finance,Recruiter,48.6250
+Finance,"Sales Manager",41.3125
+Finance,"Sales Representative",53.8095
+Finance,"Security Analyst",50.0000
+Finance,"Software Engineer",36.9333
+Finance,"Support Agent",58.3667
+Finance,"System Administrator",68.7500
+HR,"Account Manager",45.0000
+HR,Accountant,45.6316
+HR,"Civil Engineer",59.5000
+HR,"Content Creator",56.7500
+HR,"Customer Service Manager",48.6552
+HR,"Data Scientist",56.9000
+HR,"Finance Manager",47.8333
+HR,"Financial Analyst",62.1000
+HR,"HR Coordinator",39.1667
+HR,"HR Manager",43.1875
+HR,"IT Support",37.4167
+HR,"Marketing Manager",54.2778
+HR,"Marketing Specialist",57.4286
+HR,"Mechanical Engineer",46.6875
+HR,"Network Engineer",51.4000
+HR,Recruiter,57.0000
+HR,"Sales Manager",43.3529
+HR,"Sales Representative",58.4375
+HR,"Security Analyst",52.4286
+HR,"Software Engineer",61.9375
+HR,"Support Agent",58.5357
+HR,"System Administrator",43.2667
+IT,"Account Manager",55.7857
+IT,Accountant,32.9231
+IT,"Civil Engineer",46.0000
+IT,"Content Creator",50.2941
+IT,"Customer Service Manager",56.0000
+IT,"Data Scientist",41.7000
+IT,"Finance Manager",44.5000
+IT,"Financial Analyst",45.3571
+IT,"HR Coordinator",56.0000
+IT,"HR Manager",46.4667
+IT,"IT Support",49.6667
+IT,"Marketing Manager",43.1111
+IT,"Marketing Specialist",54.3125
+IT,"Mechanical Engineer",55.6667
+IT,"Network Engineer",41.4667
+IT,Recruiter,41.1667
+IT,"Sales Manager",60.6800
+IT,"Sales Representative",55.1875
+IT,"Security Analyst",47.5000
+IT,"Software Engineer",45.6471
+IT,"Support Agent",47.6400
+IT,"System Administrator",77.3333
+Marketing,"Account Manager",44.4000
+Marketing,Accountant,51.7500
+Marketing,"Civil Engineer",59.1818
+Marketing,"Content Creator",51.3043
+Marketing,"Customer Service Manager",45.8750
+Marketing,"Data Scientist",52.0000
+Marketing,"Finance Manager",48.5789
+Marketing,"Financial Analyst",48.4706
+Marketing,"HR Coordinator",48.0000
+Marketing,"HR Manager",46.7600
+Marketing,"IT Support",45.6154
+Marketing,"Marketing Manager",53.9524
+Marketing,"Marketing Specialist",53.2778
+Marketing,"Mechanical Engineer",44.5714
+Marketing,"Network Engineer",42.8333
+Marketing,Recruiter,47.6471
+Marketing,"Sales Manager",39.8500
+Marketing,"Sales Representative",48.6500
+Marketing,"Security Analyst",40.1818
+Marketing,"Software Engineer",54.2000
+Marketing,"Support Agent",43.0870
+Marketing,"System Administrator",59.0000
+Sales,"Account Manager",45.4737
+Sales,Accountant,38.5263
+Sales,"Civil Engineer",61.7000
+Sales,"Content Creator",52.0526
+Sales,"Customer Service Manager",46.4643
+Sales,"Data Scientist",44.4000
+Sales,"Finance Manager",52.2000
+Sales,"Financial Analyst",56.7368
+Sales,"HR Coordinator",47.7333
+Sales,"HR Manager",53.4737
+Sales,"IT Support",49.0000
+Sales,"Marketing Manager",40.5333
+Sales,"Marketing Specialist",51.6818
+Sales,"Mechanical Engineer",46.8333
+Sales,"Network Engineer",52.9000
+Sales,Recruiter,48.5714
+Sales,"Sales Manager",51.1905
+Sales,"Sales Representative",50.4615
+Sales,"Security Analyst",36.4615
+Sales,"Software Engineer",45.4615
+Sales,"Support Agent",49.0400
+Sales,"System Administrator",41.5714

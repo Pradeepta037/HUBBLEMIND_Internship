@@ -1,0 +1,6 @@
+EmployeeID,Name,Department,JobTitle,Years_At_Company,PerformanceScore
+EMP01591,"David Sullivan",HR,"Security Analyst",7.3945,99
+EMP01805,"April Finley",IT,"Finance Manager",17.5836,99
+EMP02034,"Tiffany Johnson",Engineering,"HR Manager",18.5233,99
+EMP02493,"Richard Medina",IT,Recruiter,27.7233,99
+EMP01190,"Michael Gonzalez","Customer Support","Support Agent",25.6603,99
